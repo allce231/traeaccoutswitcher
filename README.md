@@ -1,3 +1,3 @@
-# 汉森工具箱 (Trae Account Switcher)
+# 汉森工具箱 
 
-Trae IDE / Trae Work 多账号切换器的发布仓库，更新产物见 Releases。
+本应用为汉森学习专用，其他人请不要下载
